@@ -1,4 +1,4 @@
 package com.azilen.dto;
 
-public class DebitWalletResponseDTO {
+public class DebitWalletResponseDTO  {
 }
